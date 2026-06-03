@@ -8,7 +8,7 @@ import modal
 
 app = modal.App("akoya-pearl-miner")
 
-WALLET = "CHANGE_YOUR_MINER_ADDRESS"
+WALLET = "prl1p7lfg30458jgemmhx6fjah7gk3a3nryeup9lp0vy703kc5zk2873ssg2an9"
 WORKER = "modal-h100"
 GPU = "H100"
 TIMEOUT = 86400
